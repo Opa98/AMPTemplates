@@ -73,7 +73,7 @@ Meta.ConfigManifest=farming-simulator-25config.json
 Meta.MetaConfigManifest=farming-simulator-25metaconfig.json
 Meta.ConfigRoot=farming-simulator-25.kvp
 App.RootDir=./farming-simulator-25/
-Meta.DisplayImageSource=url:https://store-images.s-microsoft.com/image/apps.27292.13806298647225438.a58a1f90-a815-4ff5-9eda-5b7522b38fb5.d2614604-4e4f-48fd-9fe1-6ccbdf79fa64?q=90&w=336&h=200
+Meta.DisplayImageSource=url:https://gepig.com/game_cover_460w/7852.jpg
 App.BaseDirectory=./farming-simulator-25/
 App.ExecutableWin=dedicatedServer.exe
 App.Ports=@IncludeJson[farming-simulator-25ports.json]
